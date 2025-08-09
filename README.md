@@ -56,15 +56,19 @@ Val Loss: 0.57
 
 #### Visualizations
 Accuracy graph before Optimization 
+
 <img width="724" height="522" alt="Screenshot 2025-08-09 183900" src="https://github.com/user-attachments/assets/285eeec7-4743-4203-ad98-23ef0cb1b02e" />
 
 Accuracy graph after Optimization
+
 <img width="724" height="522" alt="Screenshot 2025-08-09 183907" src="https://github.com/user-attachments/assets/e1b98d0e-36d6-4292-9279-7b96d65dbbb2" />
 
 Loss graph before Optimization
+
 <img width="724" height="522" alt="Screenshot 2025-08-09 183914" src="https://github.com/user-attachments/assets/af33806b-407b-4a1b-b868-8265db18aff4" />
 
 Loss graph after Optimization
+
 <img width="724" height="522" alt="Screenshot 2025-08-09 183922" src="https://github.com/user-attachments/assets/b8317fd7-671f-44c5-af90-0e32a29141da" />
 
 #### Assumptions
